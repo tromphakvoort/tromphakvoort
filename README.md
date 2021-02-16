@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @tromphakvoort
+- 👀 I’m interested in cinematography
+- 🌱 I’m currently learning C#
+- 💞️ I’m looking to collaborate on cool stuff
+- 📫 How to reach me tromphakvoort@outlook.com
